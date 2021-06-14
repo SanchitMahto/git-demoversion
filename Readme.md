@@ -1,10 +1,14 @@
 Git Commands that I used.
 
-1. git init
-2. git status
-3. git add
-4. git commit
-5. git diff
-6. git branch
-7. git merge
-8. git checkout
+git init - to instilize git
+git status - to get the status of files
+git add - to add modified file to staging area
+git commit - to commit the changes
+git diff - to get the difference between two file or two branches
+git branch - to create new branch
+git merge - to merge with other branch
+git checkout - to switch to other branch
+git log - to track the commits
+git restore - to remove file from staging area
+git rm - to remove file from tracked
+git tag - to release the product
